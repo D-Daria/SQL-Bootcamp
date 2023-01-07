@@ -21,15 +21,11 @@ IDE I used: ***DataGRIP*** from JetBrains.
 
 ### Main database schema
 
-<div style="max-width: 580px">
-	<img style="max-width: auto" src="info/imgs/DB_schema.png">
-</div>
+<img style="width: 580px" src="info/imgs/DB_schema.png">
 
 ### Database schema for Team01 Project
 
-<div style="max-width: 580px">
-	<img style="max-width: auto" src="info/imgs/DB_schema_Team01.png">
-</div>
+<img style="width: 580px" src="info/imgs/DB_schema_Team01.png">
 
 ## Exercises
 
