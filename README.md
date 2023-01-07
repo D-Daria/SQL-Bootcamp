@@ -19,11 +19,17 @@ IDE I used: ***DataGRIP*** from JetBrains.
 
 ## Schemas
 
-Main database schema
-<img width="580px" src="info/imgs/DB_schema.png">
+### Main database schema
 
-Database schema for Team01 Project
-<img  width="580px" src="info/imgs/DB_schema_Team01.png">
+<div width="480px" >
+	<img src="info/imgs/DB_schema.png">
+</div>
+
+### Database schema for Team01 Project
+
+<div width="480px" >
+	<img src="info/imgs/DB_schema_Team01.png">
+</div>
 
 ## Exercises
 
