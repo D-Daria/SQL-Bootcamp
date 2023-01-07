@@ -21,7 +21,7 @@ IDE I used: ***DataGRIP*** from JetBrains.
 
 ### Main database schema
 
-<div width="580px">
+<div width="580px" style="width: 580px">
 	<img style="max-width: auto" src="info/imgs/DB_schema.png">
 </div>
 
