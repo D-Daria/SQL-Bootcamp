@@ -2,23 +2,11 @@
 
 ## Content
 
-### [Description]()
+### [Description](https://github.com/D-Dashka/SQL-Bootcamp#https://github.com/D-Dashka/SQL-Bootcamp#description)
 
-### [Schemas preview]()
+### [Schemas preview](https://github.com/D-Dashka/SQL-Bootcamp#schemas)
 
-### [Exercises]()
-
-[SQL_DAY00]()
-[SQL_DAY01]()
-[SQL_DAY02]()
-[SQL_DAY03]()
-[SQL_DAY04]()
-[SQL_DAY05]()
-[SQL_DAY06]()
-[SQL_DAY07]()
-[SQL_DAY08]()
-[SQL_DAY09]()
-[SQL_TEAM01]()
+### [Exercises](https://github.com/D-Dashka/SQL-Bootcamp#exercises)
 
 
 ## Description
@@ -32,10 +20,10 @@ IDE I used: ***DataGRIP*** from JetBrains.
 ## Schemas
 
 Main database schema
-<img src="info/imgs/DB_schema.png">
+<img width="580px" src="info/imgs/DB_schema.png">
 
 Database schema for Team01 Project
-<img src="info/imgs/DB_schema_Team01.png">
+<img  width="580px" src="info/imgs/DB_schema_Team01.png">
 
 ## Exercises
 
