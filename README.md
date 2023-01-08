@@ -1,10 +1,10 @@
 # SQL Bootcamp
 
 <span>
-	<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge">
+	<img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=databricks">
 </span>
 <span>
-	<img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql">
+	<img src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql">
 </span>
 
 ## 📄 Content
