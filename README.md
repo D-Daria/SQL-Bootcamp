@@ -52,11 +52,11 @@ Task is dedicated to virtual views and physical snapshots of data.
 
 Transactions and isolation levels.
 
-***SQL_DAY09***
+***DAY09***
 
 The task of the day is to create PostgreSQL functions to process the data.
 
-***SQL_TEAM01***
+***TEAM01***
 
 DWH, ETL process, data with anomalies.
 
