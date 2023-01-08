@@ -9,7 +9,7 @@
 
 ## 📄 Content
 
-[Description](https://github.com/D-Dashka/SQL-Bootcamp#https://github.com/D-Dashka/SQL-Bootcamp#description-1)
+[Description](https://github.com/D-Dashka/SQL-Bootcamp#-description)
 
 [Schemas preview](https://github.com/D-Dashka/SQL-Bootcamp#-schemas)
 
