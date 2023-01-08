@@ -9,11 +9,11 @@
 
 ## 📄 Content
 
-### [Description](https://github.com/D-Dashka/SQL-Bootcamp#https://github.com/D-Dashka/SQL-Bootcamp#description-1)
+[Description](https://github.com/D-Dashka/SQL-Bootcamp#https://github.com/D-Dashka/SQL-Bootcamp#description-1)
 
-### [Schemas preview](https://github.com/D-Dashka/SQL-Bootcamp#-schemas)
+[Schemas preview](https://github.com/D-Dashka/SQL-Bootcamp#-schemas)
 
-### [Exercises](https://github.com/D-Dashka/SQL-Bootcamp#exercises-1)
+[Exercises](https://github.com/D-Dashka/SQL-Bootcamp#-exercises)
 
 
 ## 📝 Description
