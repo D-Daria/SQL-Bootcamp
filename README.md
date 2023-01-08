@@ -24,7 +24,7 @@ Database Management System used in Bootcamp is <code>PostgreSQL</code>.
 
 IDE I used: ***DataGRIP*** from JetBrains.
 
-## 📏 Schemas
+## 🔃 Schemas
 
 ### Main database schema
 
