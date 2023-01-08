@@ -62,8 +62,12 @@ DWH, ETL process, data with anomalies.
 
 ex00
 
+``
 	The task is to write a SQL statement that returns the total volume (sum of all money) of transactions from user balance aggregated by user and balance type.
+``
 
 ex01
 
+``
 	The task is to write a SQL statement that returns all Users, all Balance transactions (not including currencies that do not have a key in the Currency table) with currency name and calculated value of currency in USD for the nearest day.
+``
