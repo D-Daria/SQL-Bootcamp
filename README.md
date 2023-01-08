@@ -1,6 +1,13 @@
 # SQL Bootcamp
 
-## Content
+<span>
+	<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge">
+</span>
+<span>
+	<img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql">
+</span>
+
+## 📄 Content
 
 ### [Description](https://github.com/D-Dashka/SQL-Bootcamp#https://github.com/D-Dashka/SQL-Bootcamp#description-1)
 
@@ -9,7 +16,7 @@
 ### [Exercises](https://github.com/D-Dashka/SQL-Bootcamp#exercises-1)
 
 
-## Description
+## 📝 Description
 SQL Bootcamp at School21 is an introduction to SQL language and databases in the intensive format: you need to complete and defend exercises every day to successfully complete the Bootcamp.
 Each module (day) in Bootcamp contains tasks dedicated to implementation of SQL statements to retrieve needed data from given database.
 
@@ -17,7 +24,7 @@ Database Management System used in Bootcamp is <code>PostgreSQL</code>.
 
 IDE I used: ***DataGRIP*** from JetBrains.
 
-## Schemas
+## 📏 Schemas
 
 ### Main database schema
 
@@ -27,7 +34,7 @@ IDE I used: ***DataGRIP*** from JetBrains.
 
 <img style="width: 580px" src="info/imgs/DB_schema_Team01.png">
 
-## Exercises
+## 💻 Exercises
 
 ***DAY00-DAY03***
 
@@ -53,4 +60,10 @@ The task of the day is to create PostgreSQL functions to process the data.
 
 DWH, ETL process, data with anomalies.
 
-The task is to write a SQL statement that returns the total volume (sum of all money) of transactions from user balance aggregated by user and balance type.
+ex00
+
+	The task is to write a SQL statement that returns the total volume (sum of all money) of transactions from user balance aggregated by user and balance type.
+
+ex01
+
+	The task is to write a SQL statement that returns all Users, all Balance transactions (not including currencies that do not have a key in the Currency table) with currency name and calculated value of currency in USD for the nearest day.
